@@ -1,0 +1,9 @@
+body {
+  background-color: lemonchiffon;
+}
+
+.profile-pic {
+  width: 15rem;
+  height: auto;
+  border-radius: 320px;
+}
